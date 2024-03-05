@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/apex/log"
-	"github.com/factorysh/streamcast/ogg"
+	"github.com/athoune/streamcast/ogg"
 )
 
 type PubSub struct {

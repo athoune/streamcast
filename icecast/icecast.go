@@ -7,7 +7,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/factorysh/streamcast/ogg"
+	"github.com/athoune/streamcast/ogg"
 )
 
 type IcePUT struct {

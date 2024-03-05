@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/factorysh/streamcast/ogg"
+	"github.com/athoune/streamcast/ogg"
 )
 
 type WriterFlusher interface {

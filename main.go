@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/factorysh/streamcast/icecast"
-	"github.com/factorysh/streamcast/web"
+	"github.com/athoune/streamcast/icecast"
+	"github.com/athoune/streamcast/web"
 )
 
 func main() {

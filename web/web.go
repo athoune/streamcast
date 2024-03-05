@@ -7,7 +7,7 @@ import (
 	"net/http"
 
 	"github.com/apex/log"
-	"github.com/factorysh/streamcast/vorbis"
+	"github.com/athoune/streamcast/vorbis"
 )
 
 type Streamer struct {

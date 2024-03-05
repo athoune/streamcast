@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/factorysh/streamcast/ogg"
+	"github.com/athoune/streamcast/ogg"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/net/context"
 )
