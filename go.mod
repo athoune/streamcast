@@ -1,10 +1,17 @@
 module github.com/athoune/streamcast
 
-go 1.14
+go 1.22
 
 require (
 	github.com/apex/log v1.9.0
 	github.com/mccoyst/ogg v0.0.0-20160329013035-74f95136384d
 	github.com/stretchr/testify v1.9.0
 	golang.org/x/net v0.22.0
+)
+
+require (
+	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/pkg/errors v0.8.1 // indirect
+	github.com/pmezard/go-difflib v1.0.0 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
